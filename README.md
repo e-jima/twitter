@@ -1,6 +1,6 @@
 # twitter
 
-### UserStream が廃止されるので、その大体
+### UserStream が廃止されるので、その代替
 
 * POST statuses/filter を代替として使う
 * https://developer.twitter.com/en/docs/tweets/filter-realtime/api-reference/post-statuses-filter
